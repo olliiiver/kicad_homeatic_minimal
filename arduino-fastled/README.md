@@ -1,0 +1,1 @@
+## Implementation to use WS2801 stripes as a Homematic dimmer device
